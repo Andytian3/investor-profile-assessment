@@ -1,0 +1,4 @@
+interface:
+  display_name: "投资画像测试"
+  short_description: "通过分层提问与评分模型生成个人投资画像与风险偏好分析"
+  default_prompt: "Use $investor-profile-assessment to run a personal investment profile assessment and produce a structured investor profile."
